@@ -1,0 +1,6 @@
+Morena Brusadin
+En git usamos comandos como:
+git init para inicializar 
+git add para preparar el archivo para el commit
+git commit confirma los cambios
+git push sube  los cambios
