@@ -3,3 +3,14 @@ git commit: guarda esos cambios en el historial del proyecto con un mensaje sobr
 
 2-git push: envía los cambios que guardamos en nuestra compu al repositorio en la nube (por ejemplo GitHub).
  Es necesario para compartir el trabajo con el resto del equipo y mantener el proyecto actualizado entre todos.
+
+ 4- Un conflicto de merge (fusión) ocurre cuando Git no puede combinar automáticamente los cambios de dos ramas porque hay modificaciones 
+ incompatibles en las mismas líneas de un archivo, o en archivos que Git no puede fusionar por sí solo.
+¿Cómo se resuelve un conflicto de merge?
+Resolver el conflicto manualmente:
+Decide qué versión conservar (puedes quedarte con una, con ambas o escribir algo nuevo).
+Elimina los marcadores (<<<<<<<, =======, >>>>>>>).
+Marcar el archivo como resuelto:
+git add archivo-con-conflicto
+Finalizar el merge:
+git commit
