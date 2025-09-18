@@ -1,0 +1,6 @@
+camila piva 
+git init: inicializa el codigo
+git clone:clona el link del repositorio
+git add para agregar el archivo
+git commit: permite confirmar los cambios
+git pull:se suben los cambios
