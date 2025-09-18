@@ -1,0 +1,5 @@
+1-git add: sirve para elegir qué cambios queremos guardar (prepararlos).
+git commit: guarda esos cambios en el historial del proyecto con un mensaje sobre lo q hicimos.
+
+2-git push: envía los cambios que guardamos en nuestra compu al repositorio en la nube (por ejemplo GitHub).
+ Es necesario para compartir el trabajo con el resto del equipo y mantener el proyecto actualizado entre todos.
