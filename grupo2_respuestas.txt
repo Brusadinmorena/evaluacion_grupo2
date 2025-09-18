@@ -4,4 +4,4 @@ git commit: guarda esos cambios en el historial del proyecto con un mensaje sobr
 2-git push: envía los cambios que guardamos en nuestra compu al repositorio en la nube (por ejemplo GitHub).
  Es necesario para compartir el trabajo con el resto del equipo y mantener el proyecto actualizado entre todos.
 
- 3-git hub logra facilitar el trabajo en grupo ya que permite ver los cambios de cada integrando sabiendo donde y cuando los hizo.
+ 3- git hub facilita el trabajo en grupo ya que permite ver los cambios de cada integrando sabiendo donde y cuando los hizo.
